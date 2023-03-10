@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    border: solid 10px #0d2ec1;
+  }
+.food {
+  padding: auto;
+  background: #0d2ec1;
+  border-radius: 0%;
+  z-index: 2;
+}
